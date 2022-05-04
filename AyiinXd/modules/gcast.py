@@ -22,23 +22,40 @@ from AyiinXd import CMD_HELP, DEVS, HEROKU_API_KEY, HEROKU_APP_NAME
 from AyiinXd.utils import ayiin_cmd, edit_delete, edit_or_reply
 
 GCAST_BLACKLIST = [
-    -1001675396283,  # AyiinXdSupport
-    -1001473548283,  # SharingUserbot
-    -1001433238829,  # TedeSupport
-    -1001476936696,  # AnosSupport
-    -1001327032795,  # UltroidSupport
-    -1001294181499,  # UserBotIndo
-    -1001419516987,  # VeezSupportGroup
-    -1001459812644,  # GeezSupportGroup
-    -1001296934585,  # X-PROJECT BOT
-    -1001481357570,  # UsergeOnTopic
-    -1001459701099,  # CatUserbotSupport
-    -1001109837870,  # TelegramBotIndonesia
-    -1001752592753,  # Skyzusupport
-    -1001788983303,  # KayzuSupport
-    -1001380293847,  # NastySupport
-    -1001267233272,  # PocongUserbot
-    -1001500063792,  # Trident
+    -1001200629564, # [03] Test Deadly X Yukki
+    -1001220709531, # [08C] M3$ - DX & MX
+    -1001233731565, # [02] GC Test 🤖 [yellow]x
+    -1001153220287, # [01] GC Test 🤖 [white]
+    -1001769312871, # GROUP CHAOS
+    -1001607863864, # [08D] M4 DLX
+    -1001596829631, # [08A] M1 - DeadlyXbot
+    -1001330015329, # [08B] M2 - Alpha & Beta
+    -1001121508405, # TeamX [#log]
+    -1001346029874, # [06] PabrikBot X
+    -1001293374538, # ADMIN INTI [XTEAM VIP]
+    -1001355701394, # Sumatera VIP
+    -1001312536930, # Jambi City VIP
+    -1001519270474, # TEAM VIP [FEDERASI]
+    -1001316159619, # Sulawesi VIP
+    -1001466910048, # Jawa VIP
+    -1001370565835, # cariteman1 vip
+    -1001442678073, # anonymeet vip
+    -1001457877280, # podcast vip
+    -1001263091728, # kutipan insecure GC
+    -1001365683522, # kalimanta vip
+    -1001471517253, # pekanbaru
+    -1001162379117, # palembang
+    -1001401263904, # medan
+    -1001409245390, # padang
+    -1001382715380, # lampung
+    -1001457517148, # aceh
+    -1001241283174, # AlphaXGank
+    -1001410961692, # TGdev desu <indo day> = fadil
+    -1001310420564, # GAS Testing Grup
+    -1001419516987, # Veez Support Group 🇮🇩
+    -1001209432070, # Geez Support Group
+    -1001473548283, # 𝗦𝗵𝗮𝗿𝗶𝗻𝗴 𝗕𝗼𝘁 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 🇮🇩
+
 ]
 
 Heroku = heroku3.from_key(HEROKU_API_KEY)
