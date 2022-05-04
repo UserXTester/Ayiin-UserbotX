@@ -56,7 +56,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ### Tutorial Deploy di VPS
 
--  `git clone https://github.com/AyiinXd/Ayiin-Userbot`
+-  `git clone https://github.com/UserXTester/Ayiin-UserbotX`
 -  `cd Ayiin-Userbot`
 -  `pip3 install -r requirements.txt`
 -  `mv sample_config.env config.env`
@@ -70,7 +70,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 <summary><b>🔗 Deploy To Heroku</b></summary>
 <br>
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/AyiinXd/DeployAyiin"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/UserXTester/Ayiin-UserbotX"><img src="https://img.shields.io/badge/BUAT DI-HEROKU-aqua?style=plastic&logo=heroku&logoColor=gold"width="300" /></a></p>
 
 </details>
 
